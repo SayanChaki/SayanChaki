@@ -4,23 +4,13 @@
 ## 🔬 Research Focus
 PhD Researcher at **Inria, Laboratoire Hubert Curien, Institut d'Optique Graduate School, University Lyon, France** 🇫🇷
 
-Pioneering advancements in **equivariant unsupervised architectures** with breakthrough innovations in:
-- 🧩 Unsupervised Object decomposition frameworks for complex visual scenes
-- 🔄 Equivariant Probabilistic encoding mechanisms for robust representation learning
-- 📐 Novel theoretical foundations connecting group theory with PAC-Bayesian bounds
-- 💡 Development of neural architectures excelling in low-data regimes
+Pioneering advancements in **equivariant unsupervised architectures** with breakthrough innovations in unsupervised Object decomposition frameworks for complex visual scenes. Developed equivariant Probabilistic encoding mechanisms for robust representation learning with theoretical foundations connecting group theory with PAC-Bayesian bounds.
 
 ## 🤝 Research Collaborations
 Lead investigator on international research initiatives with:
 - 🎓 **Visual Geometry Group (VGG)** at University of Oxford 🇬🇧
 - 🔬 **IMAGINE Lab** at École des Ponts ParisTech 🇫🇷
 - 📚 **Digital Humanities Lab** at TU Vienna 🇦🇹
-
-## 🎓 Education
--  **MSc Computer Science** - National Institute of Technology, Tiruchirappalli, India 🇮🇳
-
-## 📚 Publications & Research Impact
-Developed transformative approaches that translate complex mathematical frameworks into high-performing equivariant neural networks, maintaining invariance guarantees while preserving critical structure in latent representations. 🚀✨
 
 ## 📌 Notable Projects
 
