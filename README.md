@@ -17,7 +17,7 @@ Lead investigator on international research initiatives with:
 - 📚 **Digital Humanities Lab** at TU Vienna 🇦🇹
 
 ## 🎓 Education
-- 🎯 **MSc Computer Science** - National Institute of Technology, Tiruchirappalli, India 🇮🇳
+-  **MSc Computer Science** - National Institute of Technology, Tiruchirappalli, India 🇮🇳
 
 ## 📚 Publications & Research Impact
 Developed transformative approaches that translate complex mathematical frameworks into high-performing equivariant neural networks, maintaining invariance guarantees while preserving critical structure in latent representations. 🚀✨
