@@ -2,7 +2,7 @@
 *PhD Researcher | 🔍 Object Detection | 🧠 Unsupervised Learning | ⚙️ Equivariant Neural Architectures | 👁️ Computer Vision Specialist*
 
 ## 🔬 Research Focus
-PhD Researcher at **Inria, Laboratoire Hubert Curien, Institut d'Optique Graduate School, University Lyon, France** 🇫🇷🔥
+PhD Researcher at **Inria, Laboratoire Hubert Curien, Institut d'Optique Graduate School, University Lyon, France** 🇫🇷
 
 Pioneering advancements in **equivariant unsupervised architectures** with breakthrough innovations in:
 - 🧩 Unsupervised Object decomposition frameworks for complex visual scenes
