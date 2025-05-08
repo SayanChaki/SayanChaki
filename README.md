@@ -16,8 +16,7 @@ Lead investigator on international research initiatives with:
 
 ### [ICML 2025] REqSTN 🌟
 **Learning Composite Transformations Efficiently: Leveraging Spatial Transformer Networks and Equivariant Networks for Unsupervised Learning**  
-Official implementation of breakthrough text-to-3D generation technology
-⭐ 🔝
+To be Updated Soon⭐ 🔝
 
 ### [ICDAR 2024] 🌟
 **Historical Printed Ornaments: Dataset and Tasks**  
