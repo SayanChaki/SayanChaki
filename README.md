@@ -29,7 +29,7 @@ Developed transformative approaches that translate complex mathematical framewor
 Official implementation of breakthrough text-to-3D generation technology
 ⭐ 🔝
 
-### [ICDAR 2024] Text2CAD 📜
+### [ICDAR 2024] 📜
 **Historical Printed Ornaments: Dataset and Tasks**  
 Python | ⭐ 198 | 🍴 28
 *First benchmark and SOA on unsupervised object decomposition, clustering and anomaly localisation for complex historical ornament dataset* 🏛️
