@@ -2,15 +2,15 @@
 *PhD Researcher | 🔍 Object Detection | 🧠 Unsupervised Learning | ⚙️ Equivariant Neural Architectures | 👁️ Computer Vision Specialist*
 
 ## 🔬 Research Focus
-PhD Researcher at **Inria, Laboratoire Hubert Curien, Institut d'Optique Graduate School, University Lyon, France** 🇫🇷
+PhD Researcher at **[Inria](https://www.inria.fr/en/malice), [Laboratoire Hubert Curien](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html), Institut d'Optique Graduate School, University Lyon, France** 🇫🇷
 
 Pioneering advancements in **equivariant unsupervised architectures** with breakthrough innovations in unsupervised Object decomposition frameworks for complex visual scenes. Developed equivariant Probabilistic encoding mechanisms for robust representation learning with theoretical foundations connecting group theory with PAC-Bayesian bounds.
 
 ## 🤝 Research Collaborations
 Lead investigator on international research initiatives with:
-- 🎓 **Visual Geometry Group (VGG)** at University of Oxford 🇬🇧
-- 🔬 **IMAGINE Lab** at École des Ponts ParisTech 🇫🇷
-- 📚 **Digital Humanities Lab** at TU Vienna 🇦🇹
+- 🎓 **[Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/)** at University of Oxford 🇬🇧
+- 🔬 **[IMAGINE Lab](https://imagine-lab.enpc.fr/)** at École des Ponts ParisTech 🇫🇷
+- 📚 **[Digital Humanities Lab](https://informatics.tuwien.ac.at/digital-humanism/)** at TU Vienna 🇦🇹
 
 ## 📌 Notable Projects
 
@@ -19,10 +19,10 @@ Lead investigator on international research initiatives with:
 To be Updated Soon⭐ 🔝
 
 ### [ICDAR 2024] 🌟
-**Historical Printed Ornaments: Dataset and Tasks**  
+**[Historical Printed Ornaments: Dataset and Tasks](https://link.springer.com/chapter/10.1007/978-3-031-70543-4_15)**  
 *First benchmark and SOA on unsupervised object decomposition, clustering and anomaly localisation for complex historical ornament dataset* 🏛️
 
-### [Intermediality Computational Humanities Hackathon, Vienna 2025] 🌟
+### [Intermediality and Computational Humanities Hackathon, Vienna 2025] 🌟
 **Early Middle Century Byzantine Seal 3D Rendering**  
 *Using Gaussian Splatting and NeRF models for 3D reconstruction of Byzantine Seals* 🏺🔍
 
@@ -31,8 +31,8 @@ To be Updated Soon⭐ 🔝
 **Programming:** Python , C++ , CUDA , C#
 
 ## 🏆 Achievements
-- 🏅 **Best Poster Award** DeepMind ProbAI Summer School
-- 🌟 **Best Startup Pitch** Explaura Pulsalys Bootcamp 2024
+- 🏅 **Best Poster Award** [DeepMind ProbAI Summer School 2024](https://nordic.probabilistic.ai/)
+- 🌟 **Best Startup Pitch** [Explaura Pulsalys Bootcamp 2024](https://www.explaura-bootcamp.fr/)
 - ❄️ **Arctic Code Vault Contributor**
 
 ## Beyond Research
