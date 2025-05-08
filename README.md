@@ -29,39 +29,34 @@ Developed transformative approaches that translate complex mathematical framewor
 Official implementation of breakthrough text-to-3D generation technology
 ⭐ 🔝
 
-### [ICDAR 2024] 📜
+### [ICDAR 2024] 🌟
 **Historical Printed Ornaments: Dataset and Tasks**  
-Python | ⭐ 198 | 🍴 28
 *First benchmark and SOA on unsupervised object decomposition, clustering and anomaly localisation for complex historical ornament dataset* 🏛️
 
-### [Intermediality Computational Humanities Hackathon, Vienna 2025] 🏆
+### [Intermediality Computational Humanities Hackathon, Vienna 2025] 🌟
 **Early Middle Century Byzantine Seal 3D Rendering**  
-Python | ⭐ 198 | 🍴 28
 *Using Gaussian Splatting and NeRF models for 3D reconstruction of Byzantine Seals* 🏺🔍
 
 ## 🔧 Technical Expertise
-**Machine Learning Frameworks:** PyTorch 🔥, TensorFlow 📊, JAX ⚡
-**Programming:** Python 🐍, C++ 💻, CUDA 🖥️
-**Research Areas:** Equivariant Networks 🔄, Unsupervised Learning 🧠, Computer Vision 👁️, 3D Generation 🌐
+**Machine Learning Frameworks:** PyTorch , TensorFlow , Pytorch3D, MLOps, LangChain
+**Programming:** Python , C++ , CUDA , C#
 
 ## 🏆 Achievements
-- 🏅 **Best Paper Award** finalist at CVPR 2024
-- 🌟 **YoYo Recognition** (×2)
+- 🏅 **Best Poster Award** DeepMind ProbAI Summer School
+- 🌟 **Best Startup Pitch** Explaura Pulsalys Bootcamp 2024
 - ❄️ **Arctic Code Vault Contributor**
-- 📈 **Google Scholar Citations:** 500+ (h-index: 9)
 
-## 🌈 Beyond Research
+## Beyond Research
 When not advancing the boundaries of equivariant neural architectures, I enjoy:
 - 🎸 Playing guitar (10+ years experience)
 - 🍳 Exploring international cuisines through cooking 🌮🍕🍜
 - ✈️ Traveling and experiencing diverse cultures 🗺️🏞️🏙️
 
 ## 📫 Connect
-- 📧 **Email:** email@example.com
-- 🌐 **Website:** [mdsadilkhan.onrender.com](https://mdsadilkhan.onrender.com)
-- 🎓 **Google Scholar:** [scholar.google.com/citations?user=XIDQo_1AAAJ](https://scholar.google.com/citations?hl=en&user=XIDQo_1AAAJ)
-- 👔 **LinkedIn:** [linkedin.com/in/mohammad-sadil-khan-a96568170](https://www.linkedin.com/in/mohammad-sadil-khan-a96568170)
-- 💻 **GitHub:** [github.com/sayan](https://github.com/sayan)
+- 📧 **Email:** sayan.chaki@inria.fr
+- 🌐 **Website:** [sayanchaki.github.io](https://sayanchaki.github.io/)
+- 🎓 **Google Scholar:** [scholar.google.com/citations?user=kKNzlUcAAAAJ&hl=en](https://scholar.google.com/citations?user=kKNzlUcAAAAJ&hl=en)
+- 👔 **LinkedIn:** [https://www.linkedin.com/in/sayan-chaki-vision/](https://www.linkedin.com/in/sayan-chaki-vision/)
 
 ---
 *"Bridging theoretical foundations with practical applications to build the next generation of intelligent visual systems."* 💫🔮🚀
