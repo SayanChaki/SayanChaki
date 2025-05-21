@@ -14,8 +14,8 @@ Lead investigator on international research initiatives with:
 
 ## 📌 Notable Projects
 
-### [ICML 2025] REqSTN 🌟
-**Learning Composite Transformations Efficiently: Leveraging Spatial Transformer Networks and Equivariant Networks for Unsupervised Learning**  
+### [NeurIPS 2025] LeaRN-EqSTN 🌟
+**Learnable Riesz Transfroom for Composite Scale-Rotation Equivaraint Spatial Transformers**  
 
 To be Updated Soon⭐ 🔝
 
