@@ -1,5 +1,5 @@
 # Hi I am Sayan! 👋
-*PhD Researcher | 🔍 Object Detection | 🧠 Unsupervised Learning | ⚙️ Equivariant Neural Architectures | 👁️ Computer Vision Specialist*
+*PhD Researcher | 🔍 Object Detection | 🧠 Unsupervised Learning | ⚙️ Equivariant Neural Architectures | 👁️ Unsupervised learning*
 
 ## 🔬 Research Focus
 PhD Researcher at **[Inria](https://www.inria.fr/en/malice), [Laboratoire Hubert Curien](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html), Institut d'Optique Graduate School, University Lyon, France** 🇫🇷
